@@ -1,0 +1,3 @@
+a = input("ingrese un valor")
+b = input("ingrese segundo valor")
+if 
