@@ -1,0 +1,7 @@
+frutas = ["manzana","pera","uva","mandarina"]
+frutas.append("banana")
+frutas.insert(2,"duraznos")
+frutas.remove("uva")
+frutas.sort()
+for fruta in frutas:
+    print (fruta)
